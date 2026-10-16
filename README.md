@@ -1,6 +1,6 @@
 # AgroConnect
 
-![Главная страница AgroConnect](assets/screenshots/01-home.png)
+![Главная страница AgroConnect — выбор продукции на фотографии](assets/screenshots/09-home-interactive.png)
 
 ### B2B-платформа для фермеров и закупщиков
 
@@ -77,7 +77,7 @@ Backend организован как **модульный монолит**: д�
 
 [![Производственные мощности AgroConnect](assets/screenshots/05-capacities.png)](docs/gallery.md)
 
-**[Посмотреть 8 экранов →](docs/gallery.md)** · **[Открыть видеообзор интерфейса →](assets/video/interface-tour.webm)**
+**[Посмотреть 9 кадров →](docs/gallery.md)** · **[Открыть видеообзор интерфейса →](assets/video/interface-tour.webm)**
 
 Кабинет снят на вымышленных данных с отдельным API только для чтения. Видео показывает навигацию по интерфейсу; отправка форм, сделки и платежи в нём не выполняются. [Как подготовлена демонстрация →](docs/demo-script.md)
 
