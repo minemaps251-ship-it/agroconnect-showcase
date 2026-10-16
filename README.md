@@ -1,6 +1,6 @@
 # AgroConnect
 
-![AgroConnect — B2B-платформа для фермеров и закупщиков](assets/cover.png)
+![Главная страница AgroConnect](assets/screenshots/01-home.png)
 
 ### B2B-платформа для фермеров и закупщиков
 
