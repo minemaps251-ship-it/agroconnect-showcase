@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071f1c"/><stop offset="1" stop-color="#123a30"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern></defs>
+<rect width="1280" height="640" fill="url(#bg)"/><rect width="1280" height="640" fill="url(#grid)"/>
+<circle cx="1090" cy="120" r="245" fill="#4ade80" opacity=".05"/>
+<g fill="none" stroke="#4ade80" stroke-width="3" opacity=".6"><path d="M960 420c0-100 70-160 160-170-4 95-58 169-160 170Z"/><path d="m960 420 115-123M961 422v62"/><path d="M959 403c-83-3-131-57-134-130 78 2 128 53 134 130Z"/><path d="m959 403-99-95"/></g>
+<rect x="72" y="68" width="245" height="34" rx="17" fill="#4ade80" fill-opacity=".12"/><text x="92" y="91" fill="#86efac" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">ИНЖЕНЕРНОЕ ПОРТФОЛИО</text>
+<text x="68" y="225" fill="#f0fdf4" font-family="Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-4">AgroConnect</text>
+<text x="73" y="287" fill="#c4d9d0" font-family="Arial,sans-serif" font-size="29">B2B-платформа для фермеров</text><text x="73" y="329" fill="#c4d9d0" font-family="Arial,sans-serif" font-size="29">и закупщиков</text>
+<path d="M73 386h600" stroke="#55776a" stroke-opacity=".5"/>
+<text x="73" y="431" fill="#a4c7b7" font-family="Arial,sans-serif" font-size="19">Каталог · Мощности · Сделки · Документы</text>
+<text x="73" y="542" fill="#86efac" font-family="Arial,sans-serif" font-size="16">Next.js / React</text><text x="285" y="542" fill="#86efac" font-family="Arial,sans-serif" font-size="16">NestJS / TypeScript</text><text x="535" y="542" fill="#86efac" font-family="Arial,sans-serif" font-size="16">PostgreSQL / PostGIS</text>
+<text x="73" y="596" fill="#7e9f90" font-family="Arial,sans-serif" font-size="14">Автор проекта — Самат</text><text x="945" y="596" fill="#7e9f90" font-family="Arial,sans-serif" font-size="14">Активная разработка</text></svg>
