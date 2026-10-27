@@ -1,0 +1,41 @@
+{
+  "kind": "sanitized_excerpt_of_saved_synthetic_run",
+  "recorded_at": "2026-10-16T09:08:36.719Z",
+  "application_revision": null,
+  "scope": "Two application replicas with isolated synthetic database, storage and identity services; not production",
+  "receipt": {
+    "delivered": 24,
+    "completedBundles": 24,
+    "debits": 24,
+    "credits": 24,
+    "debitAmount": -2400,
+    "creditAmount": 2400,
+    "farmerAvailable": 2400
+  },
+  "new_reserves": {
+    "reserveBundles": 6,
+    "reserveHolds": 6,
+    "reserveHoldAmount": -600,
+    "stockReserved": 60,
+    "held": 600
+  },
+  "recovery": {
+    "jobs": 48,
+    "jobCompleted": 48,
+    "jobDead": 0,
+    "documents": 48,
+    "uniqueDocumentKeys": 48,
+    "reserveJobs": 6,
+    "reserveCompleted": 6,
+    "reserveDocuments": 6,
+    "outboxPending": 0
+  },
+  "limitations": [
+    "Initial 24 reservations were seeded, not created via UI.",
+    "Three unapplied receipt writes were replayed after database inspection following replica loss.",
+    "Owned rate-limit keys were cleared between settled batches; no production throughput claim.",
+    "Worker lease expiry was accelerated in the isolated database.",
+    "The saved artifact does not record the exact application Git SHA.",
+    "Historical result does not certify the current working tree or external payments."
+  ]
+}
