@@ -60,7 +60,7 @@
 
 ## Посмотреть приложение
 
-[![Карточка продукции AgroConnect](assets/screenshots/current/buyer-product.jpg)](docs/gallery.md)
+[![Состав демонстрационного контракта AgroConnect](assets/screenshots/current/buyer-contract.jpg)](docs/gallery.md)
 
 [Галерея интерфейса](docs/gallery.md)
 
