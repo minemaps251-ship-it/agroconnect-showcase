@@ -6,7 +6,7 @@
 
 В этом репозитории я показываю интерфейс и разбираю инженерные решения. Основной исходный код храню в закрытом репозитории.
 
-![Главная страница AgroConnect — выбор продукции на фотографии](assets/screenshots/09-home-interactive.png)
+![Первый экран главной страницы AgroConnect](assets/screenshots/10-home-hero.jpg)
 
 [Интерфейс](docs/gallery.md) · [Сценарий закупки](docs/product.md) · [Архитектура](docs/architecture.md) · [Инженерные кейсы](docs/engineering-cases.md) · [Проверки](docs/verification.md)
 
