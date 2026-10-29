@@ -8,7 +8,7 @@
 
 ![Главная страница AgroConnect — выбор продукции на фотографии](assets/screenshots/09-home-interactive.png)
 
-[Интерфейс](docs/gallery.md) · [Видео](https://minemaps251-ship-it.github.io/agroconnect-showcase/) · [Сценарий закупки](docs/product.md) · [Архитектура](docs/architecture.md) · [Инженерные кейсы](docs/engineering-cases.md) · [Проверки](docs/verification.md)
+[Интерфейс](docs/gallery.md) · [Сценарий закупки](docs/product.md) · [Архитектура](docs/architecture.md) · [Инженерные кейсы](docs/engineering-cases.md) · [Проверки](docs/verification.md)
 
 ## Зачем я создал AgroConnect
 
@@ -60,11 +60,11 @@
 
 ## Посмотреть приложение
 
-[![Состав демонстрационного контракта AgroConnect](assets/screenshots/current/buyer-contract.jpg)](docs/gallery.md)
+[![Карточка продукции AgroConnect](assets/screenshots/current/buyer-product.jpg)](docs/gallery.md)
 
-[Галерея интерфейса](docs/gallery.md) · [Видео в браузере](https://minemaps251-ship-it.github.io/agroconnect-showcase/)
+[Галерея интерфейса](docs/gallery.md)
 
-В основном видео я показываю реальные действия в кабинете закупщика: поиск, заполнение формы, просмотр контрактов, документов, аналитики и уведомлений. Запись смонтирована с русскими подписями и ускорена до 1.25×. Форму я не публикую; акцепт, платежи и поставку не выполняю. В галерее также есть кадры поставщика и администратора. [Подробнее о демонстрации →](docs/demo-script.md)
+В галерее я показываю реальные экраны закупщика, поставщика и администратора на демонстрационных данных. [Подробнее о демонстрации →](docs/demo-script.md)
 
 ## Текущий статус
 
